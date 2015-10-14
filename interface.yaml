@@ -1,0 +1,4 @@
+name: rethinkdb
+summary: Interface for relating to RethinkDB
+version: 1
+maintainer: Adam Stokes <adam.stokes@ubuntu.com>
